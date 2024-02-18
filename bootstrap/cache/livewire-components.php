@@ -1,0 +1,16 @@
+<?php return array (
+  'backup-list' => 'App\\Http\\Livewire\\BackupList',
+  'customer' => 'App\\Http\\Livewire\\Customer',
+  'index' => 'App\\Http\\Livewire\\Index',
+  'item' => 'App\\Http\\Livewire\\Item',
+  'l-stock-item' => 'App\\Http\\Livewire\\LStockItem',
+  'login' => 'App\\Http\\Livewire\\Login',
+  'master-page' => 'App\\Http\\Livewire\\MasterPage',
+  'purchase' => 'App\\Http\\Livewire\\Purchase',
+  'report' => 'App\\Http\\Livewire\\Report',
+  'return-operation' => 'App\\Http\\Livewire\\ReturnOperation',
+  'sell' => 'App\\Http\\Livewire\\Sell',
+  'stock' => 'App\\Http\\Livewire\\Stock',
+  'transfer' => 'App\\Http\\Livewire\\Transfer',
+  'user' => 'App\\Http\\Livewire\\User',
+);
